@@ -32,8 +32,9 @@ A desktop-based GUI application built with **Python** and **Tkinter** for managi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/student-database-management.git
-cd student-database-management
+git clone https://github.com/Kalharapasan/Students_Management_System_In_Python.git
+cd Students_Management_System_In_Python
+
 
 # Run the application
 python Student_Database_FrontEnd.py
